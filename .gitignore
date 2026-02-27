@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+venv/
+*.pkl
+HospitalWork.csv
+patient_segmentation_dataset.csv
